@@ -17,5 +17,11 @@ Step 2: Connect to salesforce
 9. execute python getting_started.py in cmd
 10. execute python query_demo.py in cmd
 
+Step 3: REST API to fetch metadata of org
+
+11. create a connected app in salesforce org
+12. Enter client key, client secret and domain name in restapi_demo.py
+13. execute python restapi_demo.py in cmd
+
 
    
